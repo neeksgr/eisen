@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Matrice Eisenhower</string>
+    <string name="widget_name">Matrice di Eisenhower</string>
+    <string name="widget_description">Le tue attività per urgenza e importanza, direttamente dalla Home.</string>
+</resources>
